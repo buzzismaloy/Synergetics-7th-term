@@ -25,17 +25,19 @@
 
 ### Работы 1-2
 
-Описание задания:
+**Описание задания**:
 
 ![task12 description](Lab1-6/task12.png "task12 description")
 
 ### Работы 3-4
 
+**Описание задания**:
+
 ![task34 description](Lab1-6/task34.png "task34 description")
 
 ### Работы 5-6
 
-Описание задания:
+**Описание задания**:
 
 ![task56 description](Lab1-6/task56.png "task56 description")
 
@@ -46,7 +48,7 @@
 
 ### Работы 7-8
 
-Описание задачи:
+**Описание задания**:
 
 ![task78 description](Lab7-8/task78.png "task78 description")
 
@@ -55,3 +57,14 @@
 ## Лабораторные работы 9-10
 
 ### Работы 9-10
+**Аналитическое решение**:
+
+![task9 solution](Lab9-10/solution9.jpg "task9 solution")
+
+![task10 solution](Lab9-10/solution10.jpg "task10 solution")
+
+**Описание задания**:
+
+![task910 description](Lab9-10/task910.png "task910 description")
+
+---
